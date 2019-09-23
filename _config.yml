@@ -1,1 +1,25 @@
 theme: jekyll-theme-minimal
+title: 'CMOI the dev'
+name: 'Craig M. O. Isesele'
+description: 'CMOI's portfolio
+logo: 'assets/images/logo.jpg'
+author:
+  name: "Craig M. O. Isesele"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "I am an **amazing** person." # Note: Markdown is allowed
+  location: "Somewhere"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/cmoihub"
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+      
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/
